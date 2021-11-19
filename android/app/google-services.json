@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723559594358",
+    "firebase_url": "https://food-f8d4e-default-rtdb.firebaseio.com",
+    "project_id": "food-f8d4e",
+    "storage_bucket": "food-f8d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723559594358:android:7f0e89386153d308de6257",
+        "android_client_info": {
+          "package_name": "com.haythamtech.flameandcoal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id":"723559594358-coil5pj96ebgre5e7d0fb9bkgogm4d8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0aDt4QjejMrx_DhJdAZTFFgptHlp25Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723559594358-coil5pj96ebgre5e7d0fb9bkgogm4d8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
